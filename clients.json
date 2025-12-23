@@ -54,5 +54,13 @@
         "expiry_date": "2026-12-20",
         "remarks": "test 1",
         "generated_at": "2025-12-20 04:09:17"
+    },
+    {
+        "client_name": "Sanjiv",
+        "license_key": "c51c74ba3e04e540bb6132a9fc1ef285cec5d96015672e59a2c37c49770748fe",
+        "machine_id": "90da696447fcc1c7690fbaed6d82354e94d342b554a8ccf5253eb16fe0521eb2",
+        "expiry_date": "2026-06-30",
+        "remarks": "june",
+        "generated_at": "2025-12-23 17:04:00"
     }
 ]
